@@ -5,7 +5,7 @@ The code implements PSO with two applications
 2. train a neural network for classification
 
 ## Application 1
-Please find the code in 1_ParticalSwarm.R
+Please find the code in 1_ParticleSwarm.R
 
 ## Application 2
 Please find the code under the folder PSO_NN
